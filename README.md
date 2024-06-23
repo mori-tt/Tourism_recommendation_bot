@@ -44,3 +44,13 @@ Web ブラウザで表示された Gradio インターフェースにアクセ�
 
 - `main.py`: Gradio インターフェースと API の呼び出しを管理 ([main.py:1-74](main.py))
 - `api_handlers.py`: 外部 API からデータを取得する関数を定義 ([api_handlers.py:1-49](api_handlers.py))
+
+## アプリケーションの画面
+
+### 入力前の画面
+
+![入力前の画面](images/input.jpg)
+
+### 入力後の画面
+
+![入力後の画面](images/output.jpg)
